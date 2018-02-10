@@ -1,0 +1,23 @@
+{
+  "name": "react_end",
+  "version": "1.0.0",
+  "description": "React 对应的 NodeJs 后台",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luckystar12/react_end.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luckystar12/react_end/issues"
+  },
+  "homepage": "https://github.com/luckystar12/react_end#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.4"
+  }
+}
